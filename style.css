@@ -84,3 +84,16 @@ section{
 .color2{
     color: darkslategray;
 }
+.icon{
+    float: left;
+    width: 2%;
+}
+.icon1{
+    margin-left: 45%;
+}
+.icon2{
+    margin-left: 1%;
+}
+.icon3{
+    margin-left: 1%;
+}
